@@ -46,7 +46,7 @@ Learn more in:
 
 Resources are the most important element in the Terraform language. Each resource block describes one or more infrastructure objects, such as virtual networks, compute instances, or higher-level components such as DNS records.
 
-![Image alt text](https://github.com/MsftArgHacks/terraform-internal/raw/main/Hack/Images/terraform1.PNG)
+![Image alt text](https://github.com/MsftArgHacks/Terraform/raw/main/Hack/Images/terraform1.PNG)
 
 Resource blocks have two strings before the block: the resource type and the resource name. In this example, the resource type is azurerm_resource_group and the name is example.
 Resource blocks contain arguments which you use to configure the resource. The Azure provider documentation documents supported resources and their configuration options, including azurerm_resource_group and its supported arguments.
@@ -132,7 +132,7 @@ When using a non-local backend, Terraform will not persist the state anywhere on
 
 Terraform always runs in the context of a single **root module**. A complete Terraform configuration consists of a root module and the tree of **child modules** (which includes the modules called by the root module, any modules called by those modules, etc.).
 
-![Image alt text](https://github.com/MsftArgHacks/terraform-internal/raw/main/Hack/Images/rootdictoryandmodules.PNG)
+![Image alt text](https://github.com/MsftArgHacks/Terraform/raw/main/Hack/Images/rootdictoryandmodules.PNG)
 
 ### Challenge
 
