@@ -12,7 +12,7 @@ Case of studies, the Contoso company is developing its eCommerce website called 
 
 The Infrastructure Diagram:
 
-![Image alt text](https://github.com/MsftArgHacks/terraform-internal/raw/main/Hack/Images/VisioArq.png)
+![Image alt text](https://github.com/MsftArgHacks/Terraform/raw/main/Hack/Images/VisioArq.png)
 
 ### Challenge
 
