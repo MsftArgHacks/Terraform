@@ -18,7 +18,7 @@ Historically version control has been the first component that teams have implem
 2. What do you think should be folder structure?
    1. HINT: Check the Reference Diagram:
 
-![Image alt text](https://github.com/MsftArgHacks/terraform-internal/raw/main/Hack/Images/RepoFolder.PNG)
+![Image alt text](https://github.com/MsftArgHacks/Terraform/raw/main/Hack/Images/RepoFolder.PNG)
 
 3. After seeing the Reference Diagram, Discuss its advantages and disadvantages. What folder structure will you implement?.
 
