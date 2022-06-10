@@ -1,6 +1,6 @@
 # Azure + GitHub + Terraform
 
-![Image alt text](../Hack/Images/Hackathon_Verano.png)
+![Image alt text](../Hack/Images/otono.png)
 
 ## About Azure + GitHub + Terraform Hackathon
 
