@@ -26,7 +26,7 @@ Historically version control has been the first component that teams have implem
 
 Now that we have a basic understanding of version control and Git, let's get some code checked into source control.
 
-1. Create a repo in GitHu and initialize it.([hint](https://docs.github.com/en/get-started/quickstart/create-a-repo)).
+1. Create a repo in GitHub and initialize it.([hint](https://docs.github.com/en/get-started/quickstart/create-a-repo)).
 2. Clone this repo to your local computer ([hint](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)).
 3. Create Folder Structure.
 
