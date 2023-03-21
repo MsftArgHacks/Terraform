@@ -11,6 +11,9 @@ The Web Api was developed in ASP .NET Core 6.0 and is a demo rest api that has a
 The Web Api connect to a database which database project (PartsUnlimited.Database) that is the same repo.
 However, for time constraints we recomend manually deploy the dacpac file to populate the database. [You can use SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
+You can create your own api, or even clone the example api from the following link:
+[PartsUnlimitedApi](https://github.com/MsftArgHacks/PartsUnlimitedApi)
+
 DO NOT FORGET TO TAKE CARE OF THE Web API CONNECTION STRING ;)
 
 ### Challenge
